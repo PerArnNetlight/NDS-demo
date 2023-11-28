@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "ProximaNova";
+  font-weight: 400;
+  src: url("/fonts/proximanova-regular-webfont.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  font-weight: 500;
+  src: url("/fonts/proximanova-medium-webfont.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  font-weight: 600;
+  src: url("/fonts/proximanova-semibold-webfont.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ProximaNova";
+  font-weight: 700;
+  src: url("/fonts/proximanova-bold-webfont.woff2") format("woff2");
+}
+:root {
+  font-family: "ProximaNova", Inter, system-ui, Avenir, Helvetica, Arial,
+    sans-serif;
+}
